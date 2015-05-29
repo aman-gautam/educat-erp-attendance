@@ -1,0 +1,25 @@
+<openerp>
+    <data>
+
+        <!--<record model="ir.actions.act_window" id="action_attendance_sheet">-->
+            <!--<field name="name">Attendance</field>-->
+            <!--<field name="res_model">op.attendance.sheet</field>-->
+            <!--<field name="view_mode">tree,form</field>-->
+        <!--</record>-->
+
+        <!--<menuitem id="menu_attendance" parent="" name="Attendance"/>-->
+        <!--<menuitem id="menu_attendance_header" parent="menu_attendance" name="Attendance" />-->
+        <!--<menuitem id="menu_attendance_sheet" parent="menu_attendance_header" name="Sheet"-->
+                  <!--action="action_attendance_sheet"/>-->
+
+        <!--<record model="ir.actions.act_window" id="action_attendane_feedback">-->
+            <!--<field name="name">Feedback</field>-->
+            <!--<field name="res_model">attendance.feedback</field>-->
+            <!--<field name="view_mode">tree,form</field>-->
+        <!--</record>-->
+
+        <!--<menuitem id="menu_attendance_feedback" parent="menu_attendance_header" name="Feedback"-->
+                  <!--action="action_attendane_feedback"/>-->
+
+    </data>
+</openerp>
